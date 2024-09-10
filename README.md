@@ -1,0 +1,1 @@
+To develop a quiz application using Python and the Tkinter library. The application presents multiple-choice questions to the user, allows them to select an option, provide immediate feedback on the selected answer, and calculate their final score at the end of the quiz.
